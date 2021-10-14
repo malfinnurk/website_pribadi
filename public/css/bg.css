@@ -1,0 +1,6 @@
+body{
+	background-image: url('../img/gsd.png');
+	background-size: cover;
+	background-attachment: fixed;
+	color: rgb(8, 7, 7);
+}
